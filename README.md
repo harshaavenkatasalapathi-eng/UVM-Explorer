@@ -21,13 +21,33 @@ The application currently supports:
 
 ## Screenshots
 
-<!-- Add screenshots to docs/images/ and uncomment these image links. -->
+## Screenshots
 
-<!-- ![UVM Explorer Main Interface](docs/images/uvm-explorer-main.png) -->
+### 1. UVM Explorer – Main Interface
 
-<!-- ![UVM Symbol Search](docs/images/uvm-explorer-search.png) -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1778b323-ee8f-47b5-a1cf-50847788c971" alt="UVM Explorer Main Interface" width="95%">
+</p>
 
-<!-- ![UVM Source Navigation](docs/images/uvm-explorer-source.png) -->
+### 2. Source Explorer
+
+<p align="center">
+  <img width="683" height="325" alt="image" src="https://github.com/user-attachments/assets/fb5804d9-161e-4379-8226-15b30509e738" />
+
+</p>
+
+### 3. Symbol Search
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ec0e5d4-a244-4f5e-adf5-5fc93ccf45c8" alt="UVM Explorer Source Tree" width="45%">
+</p>
+
+### 4. Source Code Inspection
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b0fefd1-4676-49d3-a728-d00d14951666" alt="UVM Explorer Source Code Inspection" width="65%">
+</p>
+
 
 ## Features
 
